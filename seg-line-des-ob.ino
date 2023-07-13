@@ -43,7 +43,8 @@ void setup(){
   digitalWrite(dirDir, LOW);
   digitalWrite(dirEsq, LOW);
 
-  Serial.begin(9600);// Inicia a comunicação seria com velocidade de 9600 bits por segundo
+  // Inicia a comunicação seria com velocidade de 9600 bits por segundo
+  Serial.begin(9600);
 }
 
 
