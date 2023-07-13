@@ -6,7 +6,7 @@
 //do Trigger - 4 - e Echo - 5
 Ultrasonic SensorUltrassonico(4, 5);
 
-//long Microsegundos = 0;
+long Microsegundos = 0;
 /* Variável para armazenar o valor do 
 tempo da reflexão do som refletido 
 pelo objeto fornecido pela biblioteca do sensor*/
